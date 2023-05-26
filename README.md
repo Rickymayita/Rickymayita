@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ricardo Ariel Maya</h1>
 <h3 align="center">Creando soluciones innovadoras desde el back-end hasta el front-end.</h3>
 
-- 🔭 I’m currently working on [my porfolio](https://github.com/Rickymayita/myporfolio.git)
+- 🔭 I’m currently working on [RouterApp](https://github.com/Rickymayita/routeapp)
 
 - 👯 I’m looking to collaborate on [capasitech kids](https://capacitechkids-production-fe31.up.railway.app/)
 
-- 👨‍💻 All of my projects are available at [en proceso](en proceso)
+- 👨‍💻 All of my projects are available at [en my portfolio](https://mrickytech.netlify.app/)
 
 - 📫 How to reach me **rickymayita@hotmail.com**
 
